@@ -1,0 +1,8 @@
+tensorflow
+pandas
+sklearn
+gensim
+elmoformanylangs
+fasttext
+tensorflow-hub
+tensorflow-text
