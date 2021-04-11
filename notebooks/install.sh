@@ -12,3 +12,6 @@ gunzip -c pretrained/cc.ar.300.bin.gz > pretrained/cc.ar.300.bin && rm pretraine
 # install elmo
 curl http://vectors.nlpl.eu/repository/11/136.zip --output pretrained/136.zip
 unzip pretrained/136.zip -d pretrained && rm pretrained/136.zip
+
+# install python3-dev for fasttext to work
+sudo apt-get install python3-dev
