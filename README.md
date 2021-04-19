@@ -3,7 +3,7 @@
 
 <p align="center"><img src="logo/alue.png" height="100" width="100"> <br />
 
-This repo contains the code needed to reproduce the baselines reported in the ALUE [paper](https://camel.abudhabi.nyu.edu/WANLP-2021-Program/14_Paper.pdf). To visit our website, please follow this [link](www.alue.com).
+This repo contains the code needed to reproduce the baselines reported in the ALUE [paper](https://camel.abudhabi.nyu.edu/WANLP-2021-Program/14_Paper.pdf). Please also make sure to visit our website at this [link](www.alue.com).
 
 
 
