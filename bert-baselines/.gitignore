@@ -1,0 +1,9 @@
+# Results folders
+results/*
+!results/.keep
+
+# Runs folder
+runs/
+
+# virtual environments
+env
