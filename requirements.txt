@@ -6,3 +6,4 @@ elmoformanylangs
 fasttext
 tensorflow-hub
 tensorflow-text
+overrides==3.1.0
